@@ -1,0 +1,11 @@
+ Transaction ID , Date       , Customer Name , Product         , Quantity Sold , Unit Price , Total Sale Amount 
+1001, 2024-10-01 , Alice Johnson  , Widget A         ,3, $10.00     , $30.00             
+1002, 2024-10-02 , Bob Smith      , Widget B         ,1, $15.00     , $15.00             
+1003, 2024-10-03 , Charlie Brown  , Widget A         ,5, $10.00     , $50.00             
+1004, 2024-10-04 , Dana White     , Widget C         ,2, $20.00     , $40.00             
+1005, 2024-10-05 , Eva Green      , Widget B         ,4, $15.00     , $60.00             
+1006, 2024-10-06 , Frank Black    , Widget A         ,1, $10.00     , $10.00             
+1007, 2024-10-07 , Grace Lee      , Widget C         ,3, $20.00     , $60.00             
+1008, 2024-10-08 , Henry Adams    , Widget B         ,2, $15.00     , $30.00             
+1009, 2024-10-09 , Iris Wilson     , Widget A         ,6, $10.00     , $60.00             
+1010, 2024-10-10 , Jack Taylor    , Widget C         ,1, $20.00     , $20.00             
